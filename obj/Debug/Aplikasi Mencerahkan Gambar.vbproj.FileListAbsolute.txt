@@ -1,0 +1,34 @@
+D:\Aplikasi Mencerahkan Gambar\Aplikasi Mencerahkan Gambar\bin\Debug\Aplikasi Mencerahkan Gambar.exe.config
+D:\Aplikasi Mencerahkan Gambar\Aplikasi Mencerahkan Gambar\bin\Debug\Aplikasi Mencerahkan Gambar.exe
+D:\Aplikasi Mencerahkan Gambar\Aplikasi Mencerahkan Gambar\bin\Debug\Aplikasi Mencerahkan Gambar.pdb
+D:\Aplikasi Mencerahkan Gambar\Aplikasi Mencerahkan Gambar\bin\Debug\Aplikasi Mencerahkan Gambar.xml
+D:\Aplikasi Mencerahkan Gambar\Aplikasi Mencerahkan Gambar\obj\Debug\Aplikasi_Mencerahkan_Gambar.Form1.resources
+D:\Aplikasi Mencerahkan Gambar\Aplikasi Mencerahkan Gambar\obj\Debug\Aplikasi_Mencerahkan_Gambar.Resources.resources
+D:\Aplikasi Mencerahkan Gambar\Aplikasi Mencerahkan Gambar\obj\Debug\Aplikasi Mencerahkan Gambar.vbproj.GenerateResource.Cache
+D:\Aplikasi Mencerahkan Gambar\Aplikasi Mencerahkan Gambar\obj\Debug\Aplikasi Mencerahkan Gambar.exe
+D:\Aplikasi Mencerahkan Gambar\Aplikasi Mencerahkan Gambar\obj\Debug\Aplikasi Mencerahkan Gambar.xml
+D:\Aplikasi Mencerahkan Gambar\Aplikasi Mencerahkan Gambar\obj\Debug\Aplikasi Mencerahkan Gambar.pdb
+C:\Users\DELL\Downloads\Aplikasi Mencerahkan Gambar\Aplikasi Mencerahkan Gambar\bin\Debug\Aplikasi Mencerahkan Gambar.exe.config
+C:\Users\DELL\Downloads\Aplikasi Mencerahkan Gambar\Aplikasi Mencerahkan Gambar\obj\Debug\Aplikasi Mencerahkan Gambar.exe
+C:\Users\DELL\Downloads\Aplikasi Mencerahkan Gambar\Aplikasi Mencerahkan Gambar\obj\Debug\Aplikasi Mencerahkan Gambar.xml
+C:\Users\DELL\Downloads\Aplikasi Mencerahkan Gambar\Aplikasi Mencerahkan Gambar\obj\Debug\Aplikasi Mencerahkan Gambar.pdb
+D:\AAA Taufik\Semester IV\TKKPL\Aplikasi Mencerahkan Gambar\Aplikasi Mencerahkan Gambar\bin\Debug\Aplikasi Mencerahkan Gambar.exe.config
+D:\AAA Taufik\Semester IV\TKKPL\Aplikasi Mencerahkan Gambar\Aplikasi Mencerahkan Gambar\obj\Debug\Aplikasi Mencerahkan Gambar.exe
+D:\AAA Taufik\Semester IV\TKKPL\Aplikasi Mencerahkan Gambar\Aplikasi Mencerahkan Gambar\obj\Debug\Aplikasi Mencerahkan Gambar.xml
+D:\AAA Taufik\Semester IV\TKKPL\Aplikasi Mencerahkan Gambar\Aplikasi Mencerahkan Gambar\obj\Debug\Aplikasi Mencerahkan Gambar.pdb
+D:\AAA Taufik\Semester IV\TKKPL\Aplikasi Mencerahkan Gambar\Aplikasi Mencerahkan Gambar\bin\Debug\Aplikasi Mencerahkan Gambar.exe
+D:\AAA Taufik\Semester IV\TKKPL\Aplikasi Mencerahkan Gambar\Aplikasi Mencerahkan Gambar\bin\Debug\Aplikasi Mencerahkan Gambar.pdb
+D:\AAA Taufik\Semester IV\TKKPL\Aplikasi Mencerahkan Gambar\Aplikasi Mencerahkan Gambar\bin\Debug\Aplikasi Mencerahkan Gambar.xml
+D:\AAA Taufik\Semester IV\TKKPL\Aplikasi Mencerahkan Gambar\Aplikasi Mencerahkan Gambar\obj\Debug\Aplikasi_Mencerahkan_Gambar.Form1.resources
+D:\AAA Taufik\Semester IV\TKKPL\Aplikasi Mencerahkan Gambar\Aplikasi Mencerahkan Gambar\obj\Debug\Aplikasi_Mencerahkan_Gambar.Resources.resources
+D:\AAA Taufik\Semester IV\TKKPL\Aplikasi Mencerahkan Gambar\Aplikasi Mencerahkan Gambar\obj\Debug\Aplikasi Mencerahkan Gambar.vbproj.GenerateResource.Cache
+D:\AAA Taufik\Semester IV\TKKPL\Aplikasi Mencerahkan Gambar - Copy\Aplikasi Mencerahkan Gambar\bin\Debug\Aplikasi Mencerahkan Gambar.exe.config
+D:\AAA Taufik\Semester IV\TKKPL\Aplikasi Mencerahkan Gambar - Copy\Aplikasi Mencerahkan Gambar\obj\Debug\Aplikasi Mencerahkan Gambar.exe
+D:\AAA Taufik\Semester IV\TKKPL\Aplikasi Mencerahkan Gambar - Copy\Aplikasi Mencerahkan Gambar\obj\Debug\Aplikasi Mencerahkan Gambar.xml
+D:\AAA Taufik\Semester IV\TKKPL\Aplikasi Mencerahkan Gambar - Copy\Aplikasi Mencerahkan Gambar\obj\Debug\Aplikasi Mencerahkan Gambar.pdb
+D:\AAA Taufik\Semester IV\TKKPL\Aplikasi Mencerahkan Gambar - Copy\Aplikasi Mencerahkan Gambar\obj\Debug\Aplikasi_Mencerahkan_Gambar.Form1.resources
+D:\AAA Taufik\Semester IV\TKKPL\Aplikasi Mencerahkan Gambar - Copy\Aplikasi Mencerahkan Gambar\obj\Debug\Aplikasi_Mencerahkan_Gambar.Resources.resources
+D:\AAA Taufik\Semester IV\TKKPL\Aplikasi Mencerahkan Gambar - Copy\Aplikasi Mencerahkan Gambar\obj\Debug\Aplikasi Mencerahkan Gambar.vbproj.GenerateResource.Cache
+D:\AAA Taufik\Semester IV\TKKPL\Aplikasi Mencerahkan Gambar - Copy\Aplikasi Mencerahkan Gambar\bin\Debug\Aplikasi Mencerahkan Gambar.exe
+D:\AAA Taufik\Semester IV\TKKPL\Aplikasi Mencerahkan Gambar - Copy\Aplikasi Mencerahkan Gambar\bin\Debug\Aplikasi Mencerahkan Gambar.pdb
+D:\AAA Taufik\Semester IV\TKKPL\Aplikasi Mencerahkan Gambar - Copy\Aplikasi Mencerahkan Gambar\bin\Debug\Aplikasi Mencerahkan Gambar.xml
