@@ -1,0 +1,17 @@
+git config --global user.name TaufikAlex
+git config --global user.email Taufik_alex@yahoo.com
+git init
+git clone "Copy Clone (tanpa tanda kutip)"
+git add .
+git status
+
+"Pindahkan folder sendir" 
+git commit -m "Nama file yang ingin dipush"
+git push origin master 
+
+
+setelah tinggal upload aja..
+git add .
+git status
+git commit -m "nama filenya"
+git push origin master
